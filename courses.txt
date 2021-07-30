@@ -1,0 +1,42 @@
+Code Fellows 401 Courses
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Aug 16, 2021 - Oct 22, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Java
+Sep 20, 2021 - Nov 24, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Sep 25, 2021 - Mar 14, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Ops 401: Cybersecurity Engineering
+Oct 4, 2021 - Dec 14, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Oct 18, 2021 - Dec 31, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Python
+Nov 29, 2021 - Feb 4, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Python
+Dec 4, 2021 - May 19, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Jan 10, 2022 - Mar 18, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in ASP.NET Core
+Feb 14, 2022 - Apr 22, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Mar 5, 2022 - Aug 11, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
