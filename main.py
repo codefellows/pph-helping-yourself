@@ -1,7 +1,11 @@
 import asyncio
-from playwright.async_api import async_playwright
-from scraper import parse_content
+import os
+from bs4 import BeautifulSoup
+from dotenv import load_dotenv
 import fire
+from playwright.async_api import async_playwright
+
+load_dotenv()  # take environment variables from .env.
 
 
 async def main(course_key=None):
@@ -27,7 +31,7 @@ async def main(course_key=None):
 
 
 async def get_page_content(page, course_key, courses):
-    await page.goto("https://testing-www.codefellows.org/course-calendar/")
+    await page.goto(os.getenv("URL"))
 
     await page.click("//label[text()='400: Advanced']")
 
@@ -44,6 +48,24 @@ async def get_page_content(page, course_key, courses):
             await page.click(f"//label[text()='{courses[course]}']")
 
     return await page.content()
+
+
+def parse_content(content, selected_course=None):
+
+    selected_course = selected_course or "Code Fellows 401"
+    soup = BeautifulSoup(content, "html.parser")
+
+    courses = soup.select(".course-calender-year-list .calendar-event")
+
+    text = f"{selected_course} Courses\n\n"
+
+    for course in courses:
+        text += course.h1.text + "\n"
+        text += course.h2.text + "\n"
+        text += course.header.h2.text + "\n"
+        text += "\n"
+
+    return text
 
 
 def output(content):
