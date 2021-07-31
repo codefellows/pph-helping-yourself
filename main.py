@@ -7,7 +7,7 @@ from playwright.async_api import async_playwright
 load_dotenv()  # take environment variables from .env.
 
 
-async def main(course_key=None):
+async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
