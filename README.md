@@ -1,4 +1,6 @@
-# Partner Power Hour: Helping Yourself - Effectively Getting Assistance
+# Partner Power Hour: Helping Yourself
+
+## Tips on Getting a Hand
 
 ## search terms
 
