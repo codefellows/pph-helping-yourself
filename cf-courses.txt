@@ -1,0 +1,246 @@
+Code Fellows Courses
+
+Code 102: Intro to Software Development
+Aug 1, 2021 - Aug 31, 2021
+Self-Paced Online Course.
+
+Code 201: Foundations of Software Development
+Aug 9, 2021 - Sep 3, 2021
+Monday – Friday, 9 am – 6 pm
+
+Ops 101: Explore Ethical Hacking & Cybersecurity Careers
+Aug 15, 2021
+Sunday, 8:30 am - 5 pm
+
+Code 301: Intermediate Software Development
+Aug 16, 2021 - Sep 10, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Aug 16, 2021 - Oct 22, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 101: Explore Software Development
+Aug 21, 2021
+Saturday, 8:30 am - 5 pm
+
+Code 102: Intro to Software Development
+Aug 30, 2021 - Sep 3, 2021
+Monday – Friday, 9 am – 4 pm
+
+Ops 301: Networking and Systems Administration
+Aug 30, 2021 - Sep 27, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 102: Intro to Software Development
+Sep 7, 2021 - Sep 17, 2021
+Monday - Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 201: Foundations of Software Development
+Sep 13, 2021 - Oct 8, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Sep 13, 2021 - Oct 8, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Sep 18, 2021 - Nov 18, 2021
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 401: Advanced Software Development in Java
+Sep 20, 2021 - Nov 24, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 101: Explore Software Development
+Sep 25, 2021
+Saturday, 8:30 am - 5 pm
+
+Code 201: Foundations of Software Development
+Sep 25, 2021 - Nov 24, 2021
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Sep 25, 2021 - Mar 14, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 102: Intro to Software Development
+Oct 4, 2021 - Oct 8, 2021
+Monday – Friday, 9 am – 4 pm
+
+Ops 401: Cybersecurity Engineering
+Oct 4, 2021 - Dec 14, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Oct 18, 2021 - Dec 31, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Oct 25, 2021 - Nov 19, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Oct 25, 2021 - Nov 19, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 101: Explore Software Development
+Nov 6, 2021
+Saturday, 8:30 am - 5 pm
+
+Code 102: Intro to Software Development
+Nov 8, 2021 - Nov 18, 2021
+Monday - Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 102: Intro to Software Development
+Nov 15, 2021 - Nov 19, 2021
+Monday – Friday, 9 am – 4 pm
+
+Code 201: Foundations of Software Development
+Nov 29, 2021 - Dec 29, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Nov 29, 2021 - Dec 29, 2021
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Python
+Nov 29, 2021 - Feb 4, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 101: Explore Software Development
+Dec 4, 2021
+Saturday, 8:30 am - 5 pm
+
+Code 201: Foundations of Software Development
+Dec 4, 2021 - Jan 10, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 401: Advanced Software Development in Python
+Dec 4, 2021 - May 19, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 301: Intermediate Software Development
+Dec 11, 2021 - Feb 17, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 201: Foundations of Software Development
+Jan 8, 2022 - Mar 10, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 201: Foundations of Software Development
+Jan 10, 2022 - Feb 4, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Jan 10, 2022 - Feb 4, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Jan 10, 2022 - Mar 18, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Feb 7, 2022 - Mar 4, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Feb 14, 2022 - Mar 11, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in ASP.NET Core
+Feb 14, 2022 - Apr 22, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 401: Advanced Software Development in Full-Stack JavaScript
+Mar 5, 2022 - Aug 11, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 201: Foundations of Software Development
+Mar 7, 2022 - Apr 1, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Mar 14, 2022 - Apr 8, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Mar 19, 2022 - May 19, 2022
+Monday – Thursday, 6:30 – 9:30 pm; Saturday, 9:00 am – 6:00 pm
+
+Code 201: Foundations of Software Development
+Apr 4, 2022 - Apr 29, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Apr 11, 2022 - May 6, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+May 2, 2022 - May 27, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+May 2, 2022 - May 27, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Jun 6, 2022 - Jul 1, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Jun 6, 2022 - Jul 1, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Jul 11, 2022 - Aug 5, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Jul 11, 2022 - Aug 5, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Aug 8, 2022 - Sep 2, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Aug 15, 2022 - Sep 9, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Sep 12, 2022 - Oct 7, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Sep 12, 2022 - Oct 7, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Oct 3, 2022 - Oct 28, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Oct 17, 2022 - Nov 11, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Oct 24, 2022 - Nov 18, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Nov 7, 2022 - Dec 6, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 201: Foundations of Software Development
+Nov 28, 2022 - Dec 23, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Nov 28, 2022 - Dec 23, 2022
+Monday – Friday, 9 am – 6 pm
+
+Code 301: Intermediate Software Development
+Jan 10, 2023 - Jan 27, 2023
+Monday – Friday, 9 am – 6 pm
+
